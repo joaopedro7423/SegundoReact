@@ -9,7 +9,7 @@ import MeuComponente from './component/MeuComponente';
 function App() {
   return (
     <div className="App">
-      <MeuComponente/>
+      <MeuComponente titulo ="Olá mundo"/>
     </div>
   );
 }
